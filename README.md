@@ -15,7 +15,6 @@ Building practical skills through labs, tooling, and hands-on projects.
 <p>
   <img src="https://skillicons.dev/icons?i=go,arch,debian,py,rust,js,java&perline=7" alt="Tech icons: Go, Arch, Python, Rust, JavaScript, Java" />
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" height="48" />
-  <img src=""
 </p>
 
 ## General Stats
