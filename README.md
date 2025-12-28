@@ -18,8 +18,6 @@ Building practical skills through labs, tooling, and hands-on projects.
 </p>
 
 ## General Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-p-z&layout=compact&theme=transparent)
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonathan-p-z&theme=dracula)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonathan-p-z&show_icons=true&include_all_commits=true&count_private=true&theme=transparent)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Jonathan-p-z&theme=transparent)
