@@ -18,6 +18,6 @@ Building practical skills through labs, tooling, and hands-on projects.
 </p>
 
 ## General Stats
-![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonathan-p-z&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonathan-p-z&theme=monokai)
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jonathan-p-z&theme=monokai)
