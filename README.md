@@ -21,3 +21,5 @@ Building practical skills through labs, tooling, and hands-on projects.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonathan-p-z&theme=monokai)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jonathan-p-z&theme=monokai)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-p-z&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
