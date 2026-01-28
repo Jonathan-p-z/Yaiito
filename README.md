@@ -10,12 +10,23 @@ Aspiring pentester with an interest in recon, web security, and network analysis
 Building practical skills through labs, tooling, and hands-on projects.
 
 
-## Favorite Technologies
+## Outil / langages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=go,arch,debian,py,rust,js,java&perline=7" alt="Tech icons: Go, Arch, Python, Rust, JavaScript, Java" />
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" height="48" />
-</p>
+<div align = "center">
+    <br>
+    <h2 align="center"> 👩🏻‍💻 I work with </h2>
+    <p align = "center">
+         <a href="https://skillicons.dev">
+            <img style="margin: 10px"src="https://skillicons.dev/icons?i=python,rust,go,java,arch,vscode,docker&=3"alt="My Skills"> 
+        </a>
+    </p>
+    <h2 align="center"> 📖 My current learning experience </h2>
+    <p align = "center">
+         <a href="https://skillicons.dev">
+            <img style="margin: 10px"src="https://skillicons.dev/icons?i=linux,react,git,github,py,c,cs,docker,nodejs,unity,rust,js,mysql&=5"alt="My Skills"> 
+        </a>
+    </p>
+</div>
 
 ## General Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonathan-p-z&theme=monokai)
