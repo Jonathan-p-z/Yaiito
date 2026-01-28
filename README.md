@@ -52,3 +52,21 @@ Building skills through labs, tooling, and hands-on projects.
     </td>
   </tr>
 </table>
+
+## 🌐 Profiles
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonathan-perez-b4b919330/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jonathan_Perez-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2">
+  </a>
+  <a href="https://tryhackme.com/p/Yaiito">
+    <img src="https://img.shields.io/badge/TryHackMe-Yaiito-darkred?style=for-the-badge&logo=tryhackme">
+  </a>
+  <a href="https://www.root-me.org/Yaiito">
+    <img src="https://img.shields.io/badge/Root--Me-Yaiito-b31b1b?style=for-the-badge">
+  </a>
+</p>
+
+
+
+
