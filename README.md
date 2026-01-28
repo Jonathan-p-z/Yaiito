@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=22C55EFF&center=true&vCenter=true&width=650&lines=Offensive+Security+Student;Web+%26+Network+Security;Learning+by+breaking+and+building;Pentesting+%7C+Recon+%7C+AppSec" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=22C55EFF&center=true&vCenter=true&width=650&lines=Offensive+Security+Student;Web+%26+Network+Security;Learning+by+breaking+and+building;Pentesting+%7C+Recon%20%7C%20AppSec" />
 </p>
 
 <p align="center">
@@ -34,24 +34,17 @@ Building skills through labs, tooling, and hands-on projects.
 
 ### 📊 GitHub Overview
 
-<table>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonathan-p-z&theme=radical" />
-    </td>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Jonathan-p-z&show_icons=true&theme=radical&hide_border=false" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-p-z&hide=javascript,html&layout=compact&theme=radical&hide_border=false" />
-    </td>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-p-z&hide=javascript,html&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonathan-p-z&theme=radical" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Jonathan-p-z&show_icons=true&theme=radical&hide_border=false" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-p-z&hide=javascript,html&layout=compact&theme=radical&hide_border=false" />
+</p>
+
+---
+
 
 ## 🌐 Profiles
 
@@ -66,7 +59,7 @@ Building skills through labs, tooling, and hands-on projects.
     <img src="https://img.shields.io/badge/Root--Me-Yaiito-b31b1b?style=for-the-badge">
   </a>
 </p>
-
-
-
-
+<p align="center">
+  <a href="https://www.hackthebox.com/profile/261073">
+    <img src="https://img.shields.io/badge/HackTheBox-Yaiito-9cf?style=for-the-badge&logo=hackthebox&logoColor=black">
+  </a>
