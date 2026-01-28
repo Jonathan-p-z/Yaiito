@@ -34,15 +34,21 @@ Building skills through labs, tooling, and hands-on projects.
 
 ### 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonathan-p-z&theme=radical" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Jonathan-p-z&show_icons=true&theme=radical&hide_border=false" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-p-z&hide=javascript,html&layout=compact&theme=radical&hide_border=false" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-p-z&hide=javascript,html&theme=tokyonight" />
-</p>
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonathan-p-z&theme=radical" />
+    </td>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Jonathan-p-z&show_icons=true&theme=radical&hide_border=false" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-p-z&hide=javascript,html&layout=compact&theme=radical&hide_border=false" />
+    </td>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-p-z&hide=javascript,html&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
