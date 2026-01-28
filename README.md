@@ -9,9 +9,6 @@ Cybersecurity student focused on offensive security and real-world attack/defens
 Aspiring pentester with an interest in recon, web security, and network analysis.  
 Building practical skills through labs, tooling, and hands-on projects.
 
-
-## Outil / langages
-
 <div align = "center">
     <br>
     <h2 align="center"> 👩🏻‍💻 I work with </h2>
